@@ -7,4 +7,4 @@ Kullanan teknoloji: MSSQL Asp.net(Webforms) javascript BootStrap
 
 Projeyi izlemek için lütfen aşağıdaki linke tıklayınız:
 
-http://aymandashak.com/videos/magaza.mp4
+https://drive.google.com/file/d/1MR0FTmLEDsR6W-8ltVW28S1XvQJcAa0k/view?usp=sharing
