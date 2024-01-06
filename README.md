@@ -5,6 +5,6 @@ ayrıca Sepet Ekle (veritabnında trigger özelliği kullanarak sepette alınan 
 
 Kullanan teknoloji: MSSQL Asp.net(Webforms) javascript BootStrap
 
-Projeyi izlemek için lütfen aşağıdaki linke tıklayınız:
+# Project video
 
-http://aymandashak.com/videos/magaza.mp4
+https://github.com/Eymen98/Magaza-Proje/assets/108132815/69e51a11-254b-4bc5-a97f-6d456eeea7bc
